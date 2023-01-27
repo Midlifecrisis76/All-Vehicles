@@ -72,7 +72,7 @@
 		<attachments chance="1.00">
 			<item name="TTSKOPants" chance="1.00" />
 		</attachments>
-			<attachments chance="1.00">
+		<attachments chance="1.00">
 			<item name="TTSKOBoots" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -112,23 +112,28 @@
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-            <item name="NVGHeadstrap" chance="1.00" />
+                       <item name="NVGHeadstrap" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />
 		</attachments>
-		<item name="BallisticHelmet_Green" chance="1.00" />
+		<attachments chance="1.00">
+		        <item name="BallisticHelmet_Green" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Canteen" chance="1.00" />
 		</attachments>
-		<item name="CanOpener" chance="1.00" />
+		<attachments chance="1.00">
+		        <item name="CanOpener" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CamoNet" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ShelterKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ChernarusMap" chance="1.00" />
 		</attachments>
         
     </type>
