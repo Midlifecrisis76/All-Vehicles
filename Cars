@@ -135,6 +135,9 @@
 		<attachments chance="1.00">
 			<item name="ChernarusMap" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="GPSReceiver" chance="1.00" />
+		</attachments>
         
     </type>
 	<type name="CivilianSedan_Wine">
