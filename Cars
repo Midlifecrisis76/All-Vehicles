@@ -214,19 +214,19 @@
 			<item name="PetrolLighter" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="MediumGasCanister" chance="1.00" />
+			<item name="GPSReceiver" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PortableGasStove" chance="1.00" />
+			<item name="ShelterKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="PurificationTablets" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Pot" chance="1.00" />
+			<item name="CamoNet" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="FishingRod" chance="1.00" />
+			<item name="FirstAidKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Hook" chance="1.00" />
