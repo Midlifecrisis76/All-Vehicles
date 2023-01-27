@@ -49,52 +49,52 @@
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="VSS" chance="1.00" />
+			<item name="GhillieAtt_Mossy" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PSO11Optic" chance="1.00" />
+			<item name="SKS_Black" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_VSS_10Rnd" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_VSS_10Rnd" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+			<item name="TacticalGloves_Black" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AmmoBox_9x39_20Rnd" chance="1.00" />
+			<item name="TTsKOJacket_Camo" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="WeaponCleaningKit" chance="1.00" />
+			<item name="TTSKOPants" chance="1.00" />
 		</attachments>
 			<attachments chance="1.00">
-			<item name="CombatKnife" chance="1.00" />
+			<item name="TTSKOBoots" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Deagle" chance="1.00" />
+			<item name="SKS_Bayonet" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_Deagle_9rnd" chance="1.00" />
+			<item name="ImprovisedSuppressor" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_Deagle_9rnd" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="PistolSuppressor" chance="1.00" />
+			<item name="Engraved1911" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="PistolSuppressor" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AmmoBox_357_20Rnd" chance="1.00" />
+			<item name="PistolSuppressor" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AmmoBox_357_20Rnd" chance="1.00" />
+			<item name="AmmoBox_45ACP_25rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_45ACP_25rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="PistolOptic" chance="1.00" />
@@ -111,11 +111,24 @@
 		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
-        <attachments chance="1.00">
+		<attachments chance="1.00">
             <item name="NVGHeadstrap" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<item name="BallisticHelmet_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<item name="CanOpener" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CamoNet" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ShelterKit" chance="1.00" />
 		</attachments>
         
     </type>
