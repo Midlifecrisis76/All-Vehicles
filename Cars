@@ -97,9 +97,6 @@
 			<item name="AmmoBox_45ACP_25rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PistolOptic" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="TacticalBaconCan" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
