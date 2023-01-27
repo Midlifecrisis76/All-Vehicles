@@ -229,13 +229,31 @@
 			<item name="FirstAidKit" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hook" chance="1.00" />
+			<item name="GorkaHelmet" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hook" chance="1.00" />
+			<item name="GorkaHelmetVisor" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="EasterEgg" chance="1.00" />
+			<item name="GorkaPants_Summer" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GorkaEJacket_Summer" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DryBag_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+                       <item name="NVGHeadstrap" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
 		</attachments>
         
 	</type>
@@ -327,7 +345,7 @@
 		<attachments chance="1.00">
 			<item name="Pot" chance="1.00" />
 		</attachments>
-	<attachments chance="1.00">
+	        <attachments chance="1.00">
 			<item name="FishingRod" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
