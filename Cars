@@ -55,10 +55,10 @@
 			<item name="SKS_Black" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+			<item name="Mag_1911_7Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+			<item name="Mag_1911_7Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
@@ -255,6 +255,36 @@
 		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="M4A1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_556x45Tracer_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
         
 	</type>
 	<type name="CivilianSedan_Black">
@@ -307,7 +337,7 @@
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="OrienteeringCompass" chance="1.00" />
+			<item name="JungleBoots_Green" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ChernarusMap" chance="1.00" />
@@ -334,26 +364,35 @@
 			<item name="PetrolLighter" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="MediumGasCanister" chance="1.00" />
+			<item name="GhillieSuit_Woodland" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PortableGasStove" chance="1.00" />
+			<item name="GhillieHood_Woodland" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PurificationTablets" chance="1.00" />
+			<item name="GhillieAtt_Woodland" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Pot" chance="1.00" />
-		</attachments>
-	        <attachments chance="1.00">
-			<item name="FishingRod" chance="1.00" />
+			<item name="Battery9V" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hook" chance="1.00" />
+                       <item name="NVGHeadstrap" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hook" chance="1.00" />
+			<item name="NVGoggles" chance="1.00" />
+                </attachments>
+		<attachments chance="1.00">
+			<item name="EasterEgg" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+		       <item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+                       <item name="NVGHeadstrap" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+                </attachments>
 		<attachments chance="1.00">
 			<item name="EasterEgg" chance="1.00" />
 		</attachments>
