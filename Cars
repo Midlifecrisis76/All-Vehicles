@@ -28,10 +28,10 @@
 			<item name="HeadlightH7" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CivSedanDoors_Driver_WineRust" chance="1.00" />
+			<item name="CivSedanDoors_Driver_BlackRust" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CivSedanDoors_CoDriver_WineRust" chance="1.00" />
+			<item name="CivSedanDoors_CoDriver_BlackRust" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CivSedanDoors_BackLeft_BlackRust" chance="1.00" />
@@ -43,7 +43,7 @@
 			<item name="CivSedanHood_BlackRust" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CivSedanTrunk_WineRust" chance="1.00" />
+			<item name="CivSedanTrunk_BlackRust" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
@@ -745,19 +745,19 @@
 			<item name="HeadlightH7" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="sedan_02_Door_1_1_RedRust" chance="1.00" />
+			<item name="sedan_02_Door_1_1_GreyRustt" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Sedan_02_Door_1_2_GreyRust" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Door_2_1_RedRust" chance="1.00" />
+			<item name="Sedan_02_Door_2_1_GreyRust" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Sedan_02_Door_2_2_GreyRust" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Hood_RedRust" chance="1.00" />
+			<item name="Sedan_02_Hood_GreyRust" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Sedan_02_Trunk_GreyRust" chance="1.00" />
@@ -792,7 +792,7 @@
 		<attachments chance="1.00">
 			<item name="AK_Suppressor" chance="1.00" />
 		</attachments>
-	<attachments chance="1.00">
+	        <attachments chance="1.00">
 			<item name="WeaponCleaningKit" chance="1.00" />
 		</attachments>
 			<attachments chance="1.00">
@@ -811,7 +811,7 @@
 			<item name="PistolSuppressor" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PistolSuppressor" chance="1.00" />
+			<item name="LargeGasCanister" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AmmoBox_357_20Rnd" chance="1.00" />
@@ -913,7 +913,7 @@
 			<item name="PetrolLighter" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="MediumGasCanister" chance="1.00" />
+			<item name="LargeGasCanister" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="PortableGasStove" chance="1.00" />
@@ -1024,7 +1024,7 @@
 			<item name="PetrolLighter" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="MediumGasCanister" chance="1.00" />
+			<item name="LargeGasCanister" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="PortableGasStove" chance="1.00" />
