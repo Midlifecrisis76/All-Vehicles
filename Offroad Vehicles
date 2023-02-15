@@ -52,25 +52,25 @@
 			<item name="CombatKnife" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="NVGHeadstrap" chance="1.00" />
+			<item name="Mich2001Helmet" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="NailBox" chance="1.00" />
+			<item name="NBCGlovesYellow" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="NailBox" chance="1.00" />
+			<item name="NBCHoodYellow" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="NailBox" chance="1.00" />
+			<item name="NBCJacketYellow" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="NailBox" chance="1.00" />
+			<item name="NBCPantsYellow" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="NailBox" chance="1.00" />
+			<item name="MilitaryBelt" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TetracyclineAntibiotics" chance="1.00" />
@@ -109,7 +109,7 @@
 			<item name="Shovel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SledgeHammer" chance="1.00" />
+			<item name="NBCBootsYellow" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="WoodAxe" chance="1.00" />
@@ -133,7 +133,7 @@
 			item name="MetalWire" chance="1.00" />
 	       </attachments>
 		<attachments chance="1.00">
-			item name="BarbedWire" chance="1.00" />
+			item name="DallasMask" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			item name="HandSaw" chance="1.00" />
@@ -377,7 +377,7 @@
 		<attachments chance="1.00">
 			<item name="CarBattery" chance="1.00" />
 		</attachments>
-        <attachments chance="1.00">
+                <attachments chance="1.00">
 		    <item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
