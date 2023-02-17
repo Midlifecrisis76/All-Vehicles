@@ -187,9 +187,6 @@
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mich2001Helmet" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="ChernarusMap" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
