@@ -200,7 +200,7 @@
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
 		</attachments>
-        <attachments chance="1.00">
+                <attachments chance="1.00">
 		        <item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -218,10 +218,10 @@
 		<attachments chance="1.00">
 			<item name="AmmoBox_9x39_20Rnd" chance="1.00" />
 		</attachments>
-        <attachments chance="1.00">
+                <attachments chance="1.00">
 		        <item name="TacticalBaconCan" chance="1.00" />
 		</attachments>
-        <attachments chance="1.00">
+                <attachments chance="1.00">
 		        <item name="SodaCan_Spite" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -230,14 +230,14 @@
 		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
-        <attachments chance="1.00">
-            <item name="NVGHeadstrap" chance="1.00" />
+                <attachments chance="1.00">
+                       <item name="NVGHeadstrap" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />
 		</attachments>
-        <attachments chance="1.00">
-           <item name="CanOpener" chance="1.00" />
+                <attachments chance="1.00">
+                        <item name="CanOpener" chance="1.00" />
 		</attachments>
         
     </type>
@@ -398,8 +398,8 @@
 		<attachments chance="1.00">
 			<item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
 		</attachments>
-        <attachments chance="1.00">
-            <item name="NVGHeadstrap" chance="1.00" />
+                <attachments chance="1.00">
+                        <item name="Mich2001Helmet" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />
