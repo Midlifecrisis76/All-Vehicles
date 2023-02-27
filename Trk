@@ -431,54 +431,6 @@
 			<item name="WoodenPlank" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="WoodenPlank" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MetalPlate" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="MetalPlate" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -551,15 +503,6 @@
 			<item name="NailBox" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hammer" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Hammer" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Shovel" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="Shovel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -569,15 +512,6 @@
 			<item name="MetalWire" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Rope" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Rope" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="FenceKit" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="HandSaw" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -588,12 +522,6 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="WoodAxe" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Pickaxe" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Pickaxe" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Hatchet" chance="1.00" />
@@ -603,12 +531,6 @@
 	       </attachments>
 		<attachments chance="1.00">
 			<item name="CanisterGasoline" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CanisterGasoline" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="PowerGenerator" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Spotlight" chance="1.00" />
@@ -650,14 +572,222 @@
 			<item name="BarbedWire" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="MetalWire" chance="1.00" />
+			<item name="NailBox" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="MetalWire" chance="1.00" />
+			<item name="NailBox" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="MetalWire" chance="1.00" />
+			<item name="NailBox" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="BDUPants" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BDUJacket" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CombatBoots_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+                </attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="ChernarusMap" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GPSReceiver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AKM" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_FoldingBttstck_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PeachesCan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_RailHndgrd_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PSO11Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Pipsi" chance="1.00" />
+		</attachments>
+		
 	</type>
 	<type name="Truck_01_Covered_Orange">
 		<attachments chance="1.00">
