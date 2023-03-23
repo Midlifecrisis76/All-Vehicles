@@ -381,27 +381,81 @@
 		    <item name="CanisterGasoline" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SVD" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="PSO11Optic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_SVD_10Rnd" chance="1.00" />
+			<item name="AKM" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_SVD_10Rnd" chance="1.00" />
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+			<item name="AK_RailHndgrd_Green" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+			<item name="AK_FoldingBttstck_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_762x39Tracer_20Rnd" chance="1.00" />
 		</attachments>
                 <attachments chance="1.00">
                         <item name="Mich2001Helmet" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BarbedBaseballBat" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NailedBaseballBat" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierVest_Camo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster_Camo" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches_Camo" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="HuntingVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="JungleBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HunterPants_Spring" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingJacket_Spring" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LargeGasCanister" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BalaclavaMask_Blackskull" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TortillaBag" chance="1.00" />
 		</attachments>
         
